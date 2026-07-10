@@ -35,7 +35,7 @@ jobs:
         run: ./gradlew copyDownloadsToAssets
 
       - name: Build debug APK (installable, unsigned-debug-key)
-        run: ./gradlew assembleLiteDebug
+        run: ./gradlew assembleFullDebug
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
