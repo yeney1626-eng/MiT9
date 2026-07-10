@@ -1,7 +1,7 @@
-locale: "fil-PH"
-dictionaryFile: "fil.txt"
-name: "Filipino"
-currency: "₱"
+locale: fil-PH
+dictionaryFile: fil.txt
+name: Filipino
+currency: ₱
 layout:
   - [SPECIAL]
   - [PUNCTUATION]
