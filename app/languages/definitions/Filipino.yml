@@ -1,17 +1,15 @@
-# Filipino (Tagalog-based national language of the Philippines)
-# Place this file in: app/languages/definitions/Filipino.yml
-locale: "fil-PH"
+locale: "tl-PH"
 dictionaryFile: "fil.txt"
 name: "Filipino"
 currency: "₱"
 layout:
-  0: [SPECIAL]
-  1: [PUNCTUATION]
-  2: [a, b, c]
-  3: [d, e, f]
-  4: [g, h, i]
-  5: [j, k, l]
-  6: [m, n, ñ, o]
-  7: [p, q, r, s]
-  8: [t, u, v]
-  9: [w, x, y, z]
+  - [SPECIAL]
+  - [PUNCTUATION]
+  - [a, b, c]
+  - [d, e, f]
+  - [g, h, i]
+  - [j, k, l]
+  - [m, n, ñ, o]
+  - [p, q, r, s]
+  - [t, u, v]
+  - [w, x, y, z]
